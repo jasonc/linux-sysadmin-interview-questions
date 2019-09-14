@@ -1,9 +1,6 @@
 Linux System Administrator/DevOps Interview Questions
 ====================================================
 
-A collection of linux sysadmin/devops interview questions. Feel free to contribute via pull requests, issues or email messages.
-
-
 ## <a name='toc'>Table of Contents</a>
 
   1. [General Questions](#general)
