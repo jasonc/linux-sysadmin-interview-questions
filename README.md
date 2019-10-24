@@ -101,7 +101,7 @@ Linux System Administrator/DevOps Interview Questions
 * What is a Split-Horizon DNS?
 * What is the sticky bit?
 * What does the immutable bit do to a file?
-* What is the difference between hardlinks and symlinks? What happens when you remove the source to a symlink/hardlink?
+* What is the difference between hard links and symlinks? What happens when you remove the source to a symlink/hard link?
 * What is an inode and what fields are stored in an inode?
 * How do you force a file system check on next reboot?
 * What is SNMP and what is it used for?
@@ -137,7 +137,7 @@ Linux System Administrator/DevOps Interview Questions
 * How can you limit process memory usage?
 * What is bash quick substitution/caret replace(^x^y)?
 * Do you know of any alternative shells? If so, have you used any?
-* What is a tarpipe (or, how would you go about copying everything, including hardlinks and special files, from one server to another)?
+* What is a tarpipe (or, how would you go about copying everything, including hard links and special files, from one server to another)?
 * How can you tell if the httpd package was already installed?
 * How can you list the contents of a package?
 * How can you determine which package is better: openssh-server-5.3p1-118.1.el6_8.x86_64 or openssh-server-6.6p1-1.el6.x86_64 ?
@@ -145,7 +145,7 @@ Linux System Administrator/DevOps Interview Questions
 
 #### [[⬆]](#toc) <a name='hard'>Hard Linux Questions:</a>
 
-* What is a tunnel and how can you bypass a http proxy?
+* What is a tunnel and how can you bypass an HTTP proxy?
 * What is the difference between an IDS and an IPS?
 * What shortcuts do you use on a regular basis?
 * What is the Linux Standard Base?
@@ -158,7 +158,7 @@ Linux System Administrator/DevOps Interview Questions
 * How do you catch a Linux signal on a script?
 * Can you catch a SIGKILL?
 * What happens when the Linux kernel starts the OOM killer and how does it choose which process to kill first?
-* Describe the linux boot process with as much detail as possible, starting from when the system is powered on and ending when you get a prompt.
+* Describe the Linux boot process with as much detail as possible, starting from when the system is powered on and ending when you get a prompt.
 * What's a chroot jail?
 * When trying to umount a directory it says it's busy. How do you find out which PID is using the directory?
 * What's LD_PRELOAD and when it's used?
@@ -190,11 +190,11 @@ Linux System Administrator/DevOps Interview Questions
 * What is the purpose of a default gateway?
 * What is command used to show the routing table on a Linux box?
 * A TCP connection on a network can be uniquely defined by 4 things. What are those things?
-* When a client running a web browser connects to a web server, what is the source port and what is the destination port of the connection?
+* When a client running a web browser connects to a web server, what is the source port and destination port of the connection?
 * How do you add an IPv6 address to a specific interface?
 * You have added an IPv4 and IPv6 address to interface eth0. A ping to the v4 address is working but a ping to the v6 address gives you the response ```sendmsg: operation not permitted```. What could be wrong?
 * What is SNAT and when should it be used?
-* Explain how could you ssh login into a Linux system that DROPs all new incoming packets using a SSH tunnel.
+* Explain how could you ssh login into a Linux system that DROPs all new incoming packets using an SSH tunnel.
 * How do you stop a DDoS attack?
 * How can you see the contents of an ip packet?
 * What is IPoAC (RFC 1149)?
